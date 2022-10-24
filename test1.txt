@@ -5,6 +5,7 @@ Hi main, unicorn, and Pony
 
 
 Today is Earth day.
+Trying to close Issue #4 by titling fixes in "Commit Changes" section
 
 
 This is a test file to try and discover all the tools in this outstanding web service!
